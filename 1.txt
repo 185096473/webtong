@@ -1,0 +1,11 @@
+git  分布式的管理工具   客户端   暂存区    服务区
+git init  初始化项目
+git add 文件    添加文件
+git config --global user.email "185096473@qq.com"   用户邮箱
+git config --global user.name "185096473"           用户名
+git status   判断文件状态
+git remote add origin https://github.com/185096473/test.git
+链接远程仓库
+确认是否是本人   输入用户名和密码
+git push -u origin master
+提交到远程仓库
